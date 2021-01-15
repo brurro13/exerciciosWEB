@@ -1,2 +1,2 @@
 # exerciciosWEB
- projeto de site utilizando HTML e PHP para fixação de conteúdo
+ Sites utilizando HTML e PHP para fixação de conteúdo proposto na aula de Desenvolvimento Web.
