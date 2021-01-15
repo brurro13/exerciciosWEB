@@ -1,0 +1,32 @@
+#log{
+	width: 25%;
+}
+
+header {
+	background: rgb(187, 00, 00);
+	padding: 15px;
+}
+
+header h1{
+	color: #FFFFFF;
+}
+
+nav{
+	border: solid 2px #FFFFFF;
+}
+
+nav a{
+	color: #FFFFFF;
+	font-weight: bold;
+	font-size: 20px;
+	text-decoration: none;
+}
+
+nav a:hover{
+	color: rgb(255, 255, 000);
+}
+
+nav li{
+	display: inline;
+	margin: 0 0 0 33px
+}
